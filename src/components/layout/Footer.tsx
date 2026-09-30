@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { Service365Logo } from "@/components/branding/Service365Logo";
+import { Service365Logo } from "@/components/branding/Took&DeliverLogo";
 import { MapPin, Phone, Mail, Clock, ShieldCheck, CreditCard, Truck } from "lucide-react";
 
 export function Footer() {

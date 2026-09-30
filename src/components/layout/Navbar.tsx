@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { Service365Logo } from "@/components/branding/Service365Logo";
+import { Service365Logo } from "@/components/branding/Took&DeliverLogo";
 import { Menu, X, ArrowRight, Search, ShieldCheck } from "lucide-react";
 
 export function Navbar() {

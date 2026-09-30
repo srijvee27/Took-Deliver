@@ -21,7 +21,7 @@ import {
   CheckCircle2,
   AlertTriangle
 } from "lucide-react";
-import Service365Logo from "@/components/branding/Service365Logo";
+import Service365Logo from "@/components/branding/Took&DeliverLogo";
 
 interface AdminLayoutProps {
   children: React.ReactNode;

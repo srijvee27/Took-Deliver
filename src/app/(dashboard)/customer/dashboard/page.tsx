@@ -16,7 +16,7 @@ import {
   LogOut,
   AlertCircle 
 } from "lucide-react";
-import Service365Logo from "@/components/branding/Service365Logo";
+import Service365Logo from "@/components/branding/Took&DeliverLogo";
 import { formatCurrency, formatOrderDate } from "@/lib/utils";
 
 interface CustomerOrder {

@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { Service365Logo } from "@/components/branding/Service365Logo";
+import { Service365Logo } from "@/components/branding/Took&DeliverLogo";
 import { ArrowRight, AlertCircle, CheckCircle2 } from "lucide-react";
 
 export default function RegisterCustomerPage() {

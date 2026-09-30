@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { Service365Logo } from "@/components/branding/Service365Logo";
+import { Service365Logo } from "@/components/branding/Took&DeliverLogo";
 import { ArrowRight, CheckCircle2, ArrowLeft } from "lucide-react";
 
 export default function ForgotPasswordPage() {

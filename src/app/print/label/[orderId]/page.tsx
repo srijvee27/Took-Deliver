@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import { Printer, ArrowLeft, CheckCircle2, AlertCircle } from "lucide-react";
-import Service365Logo from "@/components/branding/Service365Logo";
+import Service365Logo from "@/components/branding/Took&DeliverLogo";
 import { formatCurrency } from "@/lib/utils";
 
 interface OrderData {
