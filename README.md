@@ -1,4 +1,4 @@
-# Nao&Dao - Bangladesh Logistics & Courier SaaS Platform
+# Travel&Deliver - Bangladesh Logistics & Courier SaaS Platform
 
 > **"Delivering Business. Every Day."**  
 > Complete production-ready Bangladesh courier, e-commerce fulfillment, and parcel delivery SaaS platform with bespoke branding, server-side pricing engine, financial COD ledger, bKash Payment Gateway integration, and full Vercel compatibility backed by PostgreSQL (Neon) and Prisma ORM.
