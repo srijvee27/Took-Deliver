@@ -97,7 +97,7 @@ If running locally with local PostgreSQL (e.g. PostgreSQL 14/15/16/17/18 install
    ```
 2. **Set up Local PostgreSQL Database**:
    ```env
-   DATABASE_URL="postgresql://postgres:postgres@localhost:5432/service365"
+   DATABASE_URL="postgresql://postgres:postgres@localhost:5432/Travel%26Deliver"
    ```
 3. **Run Prisma Migrations & Seed**:
    ```bash
@@ -240,7 +240,7 @@ Service365 is 100% cloud-native and serverless-ready for Vercel deployment:
 
 ```env
 # Database (Neon or Local PostgreSQL)
-DATABASE_URL="postgresql://postgres:postgres@localhost:5432/service365"
+DATABASE_URL="postgresql://postgres:postgres@localhost:5432/Travel%26Deliver"
 
 # Application Base URL
 NEXT_PUBLIC_APP_URL="http://localhost:3000"
