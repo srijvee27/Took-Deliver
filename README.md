@@ -1,4 +1,4 @@
-# Travel&Deliver - Bangladesh Logistics & Courier SaaS Platform
+# Took&Deliver - Bangladesh Logistics & Courier SaaS Platform
 
 > **"Delivering Business. Every Day."**  
 > Complete production-ready Bangladesh courier, e-commerce fulfillment, and parcel delivery SaaS platform with bespoke branding, server-side pricing engine, financial COD ledger, bKash Payment Gateway integration, and full Vercel compatibility backed by PostgreSQL (Neon) and Prisma ORM.
@@ -40,7 +40,7 @@
 
 ---
 
-## Beginner's Guide: How to Connect Service365 to Neon PostgreSQL
+## Beginner's Guide: How to Connect Took&Deliver to Neon PostgreSQL
 
 If you are new to PostgreSQL, Neon provides a free, serverless cloud PostgreSQL database that connects in less than 2 minutes.
 
